@@ -10,13 +10,17 @@ Domain: Python development
 
 
 1.Calculator
+<br>
 <img src = "Images/calc.jpg">
 
 2.Password Generator
+<br>
 <img src = "Images/pass.jpg">
 
 3.To-Do List
+<br>
 <img src = "Images/todo.jpg">
 
 4.Rock Paper Scissor Game
+<br>
 <img src = "Images/rockscr.jpg">
